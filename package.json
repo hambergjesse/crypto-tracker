@@ -1,0 +1,22 @@
+{
+  "name": "crypto-tracker",
+  "version": "1.0.0",
+  "description": "crypto tracking site made using CoinMarketCap API.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hambergjesse/crypto-tracker.git"
+  },
+  "keywords": [
+    "crypto"
+  ],
+  "author": "Jesse Hamberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hambergjesse/crypto-tracker/issues"
+  },
+  "homepage": "https://github.com/hambergjesse/crypto-tracker#readme"
+}
